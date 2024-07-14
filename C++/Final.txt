@@ -1,0 +1,75 @@
+CourseId       Group No        Course Average
+ECA               1                80.27
+                  2                80.60
+
+CourseId       Group No        Course Average
+APPLIEDPHY        1                73.80
+                  2                74.67
+
+CourseId       Group No        Course Average
+ETHICS            1                75.50
+                  2                76.30
+
+
+Avg for group 1: 76.5242
+Avg for group 2: 77.1889
+       CourseId        Group NoCourse Average
+               ECA                180.27
+                                  280.60
+
+       CourseId        Group NoCourse Average
+        APPLIEDPHY                173.80
+                                  274.67
+
+       CourseId        Group NoCourse Average
+            ETHICS                175.50
+                                  276.30
+
+
+Avg for group 1: 76.5242
+Avg for group 2: 77.1889
+CourseId       Group No        Course Average
+ECA               1                80.27
+                  2                80.60
+
+CourseId       Group No        Course Average
+APPLIEDPHY        1                73.80
+                  2                74.67
+
+CourseId       Group No        Course Average
+ETHICS            1                75.50
+                  2                76.30
+
+
+Avg for group 1: 76.5242
+Avg for group 2: 77.1889
+CourseId       Group No        Course Average
+ECA               1                80.27
+                  2                80.60
+
+CourseId       Group No        Course Average
+APPLIEDPHY        1                73.80
+                  2                74.67
+
+CourseId       Group No        Course Average
+ETHICS            1                75.50
+                  2                76.30
+
+
+Avg for group 1: 76.5242
+Avg for group 2: 77.1889
+CourseId       Group No        Course Average
+ECA               1                80.27
+                  2                80.60
+
+CourseId       Group No        Course Average
+APPLIEDPHY        1                73.80
+                  2                74.67
+
+CourseId       Group No        Course Average
+ETHICS            1                75.50
+                  2                76.30
+
+
+Avg for group 1: 50.85
+Avg for group 2: 51.31
